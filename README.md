@@ -1,1 +1,1 @@
-# NovaTerra
+# NovaTerra application
